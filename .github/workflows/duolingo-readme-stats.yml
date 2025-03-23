@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    environment:
+      name: production
     steps:
       - uses: actions/checkout@v3
       - uses: centrumek/duolingo-readme-stats@main
