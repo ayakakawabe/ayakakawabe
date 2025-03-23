@@ -4,7 +4,7 @@
 
 <img align="left" alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe&theme=shadow_green&show_icons=true" />
 
-<img align="right" alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html" />
+<img align="right" alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html,jupyter" />
 
 <!--
 **ayakakawabe/ayakakawabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
