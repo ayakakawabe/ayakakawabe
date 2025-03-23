@@ -47,13 +47,14 @@
 
 **Research in uni 🎓**
 
-| <a align="center" href="https://github.com/social-robotics-lab/ar-communicator-for-deaf-and-hearing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=social-robotics-lab&repo=ar-communicator-for-deaf-and-hearing&theme=shadow_green&hide_border=true" /></a> | <a align="center" href="https://github.com/ayakakawabe/chatgpt-line-bot-for-experiment"><img src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/pin/?username=ayakakawabe&repo=chatgpt-line-bot-for-experiment&theme=shadow_green&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a align="center" href="https://github.com/social-robotics-lab/ar-communicator-for-deaf-and-hearing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=social-robotics-lab&repo=ar-communicator-for-deaf-and-hearing&theme=shadow_green&border_color=D0D9E0" /></a>
+<a align="center" href="https://github.com/ayakakawabe/chatgpt-line-bot-for-experiment"><img src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/pin/?username=ayakakawabe&repo=chatgpt-line-bot-for-experiment&theme=shadow_green&border_color=D0D9E0" /></a>
 
 **Hackathon 🏃**
 
-| <a align="center" href="https://github.com/abhrs0622/TaRO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhrs0622&repo=TaRO&theme=shadow_green&hide_border=true" /></a>  | <a align="center" href="https://github.com/hirafish/emocha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hirafish&repo=emocha&theme=shadow_green&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a align="center" href="https://github.com/abhrs0622/TaRO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhrs0622&repo=TaRO&theme=shadow_green&border_color=D0D9E0" /></a>
+<a align="center" href="https://github.com/hirafish/emocha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hirafish&repo=emocha&theme=shadow_green&border_color=D0D9E0" /></a>
+
 
 <!--
 **ayakakawabe/ayakakawabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
