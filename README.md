@@ -2,9 +2,10 @@
 
 - 🌱 I’m currently learning SQL and LINUX.
 
-# 🏃 Activities
-<img  alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe&theme=shadow_green&show_icons=true" />
-<img  alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html,&exclude_repo=ayakakawabe,github-readme-stats,100knocks-preprocess" />
+<div>
+<img style="border: 1px solid gray" alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe&theme=shadow_green&show_icons=true" />
+<img style="border: 1px solid gray" alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html,&exclude_repo=ayakakawabe,github-readme-stats,100knocks-preprocess" />
+</div>
 
 <!--
 **ayakakawabe/ayakakawabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
