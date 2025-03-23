@@ -9,10 +9,6 @@
 |:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> ayakaintheclouds | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakactive.svg" height="12"> 266 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 137257 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 0 |
 
-| Language | XP |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/english.svg" height="12"> English (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/japanese.svg" height="12"> Japanese) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 132991 |
-
 <!--END_SECTION:duolingoStats-->
 
 | <img align="center" alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe&theme=shadow_green&show_icons=true&hide_border=true" /> | <img align="center" alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html,&exclude_repo=ayakakawabe,github-readme-stats,100knocks-preprocess&hide_border=true" /> |
