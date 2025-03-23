@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning SQL and Linux.
 
-| <img align="center" alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe&theme=shadow_green&show_icons=true&hide_border=true" /> | <img align="center" alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html,&exclude_repo=ayakakawabe,github-readme-stats,100knocks-preprocess&hide_border=true" /> |
-| ------------- | ------------- |
-
+<img src="https://img.shields.io/badge/Duolingo-%40ayakaintheclouds-%2345CC11?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=%233BAE12" />
 <!--START_SECTION:duolingoStats-->
 <!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
 
@@ -13,6 +11,9 @@
 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> ayakaintheclouds | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakactive.svg" height="12"> 266 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 137257 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 0 |
 
 <!--END_SECTION:duolingoStats-->
+
+| <img align="center" alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe&theme=shadow_green&show_icons=true&hide_border=true" /> | <img align="center" alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html,&exclude_repo=ayakakawabe,github-readme-stats,100knocks-preprocess&hide_border=true" /> |
+| ------------- | ------------- |
 
 ## My repos 🐶
 
