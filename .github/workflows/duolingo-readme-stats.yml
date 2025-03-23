@@ -20,3 +20,5 @@ jobs:
           DUOLINGO_USER_ID: ${{ secrets.DUOLINGO_USER_ID }}
           ADVANCED_TOKEN_JWT: ${{ secrets.DUOLINGO_JWT_TOKEN }}
           SHOW_ADVANCED_LEAGUE: true
+          SHOW_ADVANCED_XP_THIS_WEEK: true
+          SHOW_LANGUAGES: false
