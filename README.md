@@ -1,11 +1,25 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning SQL and LINUX.
+- 🌱 I’m currently learning SQL and Linux.
 
-<div>
-<img style="border: 1px solid gray" alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe&theme=shadow_green&show_icons=true" />
-<img style="border: 1px solid gray" alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html,&exclude_repo=ayakakawabe,github-readme-stats,100knocks-preprocess" />
-</div>
+<!--START_SECTION:duolingoStats-->
+
+<!--END_SECTION:duolingoStats-->
+
+| <img align="center" alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe&theme=shadow_green&show_icons=true&hide_border=true" /> | <img align="center" alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html,&exclude_repo=ayakakawabe,github-readme-stats,100knocks-preprocess&hide_border=true" /> |
+| ------------- | ------------- |
+
+## My repos 🐶
+
+### Research in uni 🎓
+
+| <a align="center" href="https://github.com/social-robotics-lab/ar-communicator-for-deaf-and-hearing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=social-robotics-lab&repo=ar-communicator-for-deaf-and-hearing&theme=shadow_green&hide_border=true" /></a> | <a align="center" href="https://github.com/ayakakawabe/chatgpt-line-bot-for-experiment"><img src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/pin/?username=ayakakawabe&repo=chatgpt-line-bot-for-experiment&theme=shadow_green&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### Currently learning 📚
+
+| <a align="center" href="https://github.com/ayakakawabe/LeetCode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayakakawabe&repo=LeetCode&theme=shadow_green&hide_border=true" /></a>  | <a align="center" href="https://github.com/ayakakawabe/100knocks-preprocess"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayakakawabe&repo=100knocks-preprocess&theme=shadow_green&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **ayakakawabe/ayakakawabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
