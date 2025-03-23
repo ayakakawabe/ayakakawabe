@@ -37,7 +37,7 @@
 
 <!--END_SECTION:duolingoStats-->
 
-### 🐈 Github Activities
+### 🐈 Github
 
 | <img align="center" alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe&theme=shadow_green&show_icons=true&hide_border=true" /> | <img align="center" alt="ayakakawabe's Github Top Language Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/top-langs/?username=ayakakawabe&theme=shadow_green&layout=compact&hide=html,&exclude_repo=ayakakawabe,github-readme-stats,100knocks-preprocess&hide_border=true" /> |
 | ------------- | ------------- |
