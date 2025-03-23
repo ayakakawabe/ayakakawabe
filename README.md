@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img align="left" alt="ayakakawabe's Github Stats" src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api?username=ayakakawabe" />
+
 <!--
 **ayakakawabe/ayakakawabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
