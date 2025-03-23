@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<a href="https://www.duolingo.com/profile/ayakaintheclouds"><img src="https://img.shields.io/badge/Duolingo-%40ayakaintheclouds-%2345CC11?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=%233BAE12" /></a>
-<a href="https://leetcode.com/u/ayakakawabe/"><img src="https://img.shields.io/badge/LeetCode-ayakakawabe-%23FFA115?style=for-the-badge&logo=leetcode&labelColor=%23E38F14&color=%23FFA115" /></a>
-
 🕊️ I am trying to be a morning person.
 
 ### 📚 Learning :
@@ -22,6 +19,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=Linux">
 <img alt="Static Badge" src="https://img.shields.io/badge/Github_Actions-white?style=flat-square&logo=githubactions">
 </p>
+
+<a href="https://www.duolingo.com/profile/ayakaintheclouds"><img src="https://img.shields.io/badge/Duolingo-%40ayakaintheclouds-%2345CC11?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=%233BAE12" /></a>
+<a href="https://leetcode.com/u/ayakakawabe/"><img src="https://img.shields.io/badge/LeetCode-ayakakawabe-%23FFA115?style=for-the-badge&logo=leetcode&labelColor=%23E38F14&color=%23FFA115" /></a>
 
 ##
 
