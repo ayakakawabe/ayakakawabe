@@ -22,7 +22,7 @@
 </p>
 
 <a href="https://www.duolingo.com/profile/ayakaintheclouds"><img src="https://img.shields.io/badge/Duolingo-%40ayakaintheclouds-%2345CC11?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=%233BAE12" /></a>
-<a href="https://leetcode.com/u/ayakakawabe/"><img src="https://img.shields.io/badge/LeetCode-ayakakawabe-%23FFA115?style=for-the-badge&logo=leetcode&labelColor=%23E38F14&color=%23FFA115" /></a>
+<a href="https://leetcode.com/u/ayakakawabe/"><img src="https://img.shields.io/badge/LeetCode-%40ayakakawabe-%23FFA115?style=for-the-badge&logo=leetcode&labelColor=%23E38F14&color=%23FFA115" /></a>
 
 ## Activities
 
