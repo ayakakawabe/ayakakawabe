@@ -2,7 +2,7 @@ name: Duolingo README Stats Action
 
 on:
   schedule:
-    - cron: '0 15 * * *' # Runs at 15:00 UTC every day
+    - cron: '30 14 * * *' # Runs at 14:30 UTC (23:30 JST) every day
   workflow_dispatch:
 
 jobs:
