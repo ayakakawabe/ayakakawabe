@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 💜 INTJ personality.
-- 🕊️ I am trying to be a morning person.
+- 🕊️ I'm trying to be a morning person.
 
 ### 📚 Learning :
 
