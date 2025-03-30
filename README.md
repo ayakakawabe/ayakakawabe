@@ -42,7 +42,7 @@
 
 <!--END_SECTION:duolingoStats-->
 
-### 🐈 Github
+### 🐈‍⬛ Github
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ayakakawabe&rank=-C,-?&margin-w=5"/>
 
