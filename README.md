@@ -52,7 +52,7 @@
 
 ## Repos 
 
-### 🎓 Research in uni
+### 🎓 Research in Uni
 
 <a align="center" href="https://github.com/social-robotics-lab/ar-communicator-for-deaf-and-hearing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=social-robotics-lab&repo=ar-communicator-for-deaf-and-hearing&theme=shadow_green&border_color=D0D9E0" /></a>
 <a align="center" href="https://github.com/ayakakawabe/chatgpt-line-bot-for-experiment"><img src="https://github-readme-stats-ayakakawabes-projects.vercel.app/api/pin/?username=ayakakawabe&repo=chatgpt-line-bot-for-experiment&theme=shadow_green&border_color=D0D9E0" /></a>
